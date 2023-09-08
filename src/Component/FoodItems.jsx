@@ -35,7 +35,7 @@ const FoodItems = () => {
             handleToast={handleToast}
           />
         ))}
-        <FoodCart />
+        
       </div>
     </>
   );

@@ -179,5 +179,6 @@ const FoodData = [
     category: "Snacks",
     rating: 4.8,
   },
+
 ];
 export default FoodData;
